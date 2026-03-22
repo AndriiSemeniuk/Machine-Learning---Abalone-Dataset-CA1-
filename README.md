@@ -48,6 +48,7 @@ jupyter notebook
 ```
 ### 4. Open the CA1 Machine Learning.ipynb file and run all the cells from top to bottom.
 
+---
 ## Author
 Andrii Semeniuk  
 Diploma in Data Analytics for Business, CCT College Dublin
